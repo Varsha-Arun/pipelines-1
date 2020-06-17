@@ -2,8 +2,8 @@ resources:
   - name: gitResource
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: master
       files:
@@ -15,8 +15,8 @@ resources:
   - name: gitResource1
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -27,8 +27,8 @@ resources:
   - name: gitResource2
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -39,8 +39,8 @@ resources:
   - name: gitResource3
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -48,8 +48,8 @@ resources:
   - name: gitResource4
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -57,8 +57,8 @@ resources:
   - name: gitResource5
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -66,8 +66,8 @@ resources:
   - name: gitResource6
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: ^{{gitBranch}}$
       files:
@@ -75,8 +75,8 @@ resources:
   - name: gitResource7
     type: GitRepo
     configuration:
-      gitProvider: git_v
-      path: vishnurao12/Org_test_Automation
+      gitProvider: varsha_github
+      path: Varsha-Arun/sample-script
       branches:
         include: ^{{gitBranch}}$
       files:
